@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46904388239",
+    "firebase_url": "https://dpslocations.firebaseio.com",
+    "project_id": "dpslocations",
+    "storage_bucket": "dpslocations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46904388239:android:84e7eac4b67f1c55b71efa",
+        "android_client_info": {
+          "package_name": "com.example.dpslocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46904388239-rgsffs4kdh5eaoln2o2jpho8e8rl34bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dpslocation",
+            "certificate_hash": "cc41228eeb2a4ccfa981b606f2c43c2f31959014"
+          }
+        },
+        {
+          "client_id": "46904388239-46go54b0a9pp2gp8dun8ugsnals64har.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYTBzb2tvdlKURWKIBbFj8ggyKdG8Q5E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46904388239-46go54b0a9pp2gp8dun8ugsnals64har.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
